@@ -5,5 +5,4 @@ This assignment demonstrates an Optimistic UI approach for updating equipment st
 npm install
 
 npm run dev
-
 `
